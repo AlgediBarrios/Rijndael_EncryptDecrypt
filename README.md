@@ -1,4 +1,6 @@
-# QRreader
+# Rijndael_EncryptDecrypt/
 
-This is an APP where you can to use the QR Reader.
-It works on a real mobile too.
+Just include this class to your project and test this code with the following instance using the Console and you will be surprised:
+
+RijndaelTest rijndaelTest = new RijndaelTest();
+rijndaelTest.EncryptDecrypt("GoodJob");
